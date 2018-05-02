@@ -1,0 +1,21 @@
+langcode: en
+status: true
+dependencies:
+  theme:
+    - lmmi_journal
+_core:
+  default_config_hash: Ok68zlSpUL-Mz10SZmIPxMlF-Kt3yh2qYH6cAH6BLts
+id: lmmi_journal_local_tasks
+theme: lmmi_journal
+region: content
+weight: -7
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  provider: core
+  label_display: '0'
+  primary: true
+  secondary: true
+visibility: {  }

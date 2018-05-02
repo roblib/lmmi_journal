@@ -1,0 +1,21 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - lmmi_journal
+_core:
+  default_config_hash: r_q_QXafqMXMY87a4vlNDa0PXg7tXyIq1BShaD5qJB0
+id: lmmi_journal_content
+theme: lmmi_journal
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }

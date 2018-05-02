@@ -1,0 +1,21 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - lmmi_journal
+_core:
+  default_config_hash: rnK8mDkKDQGWnWeSVn5xpkA79FoQtfw11Zjzkwcq2y4
+id: lmmi_journal_search
+theme: lmmi_journal
+region: sidebar_second
+weight: -6
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: Search
+  provider: search
+  label_display: visible
+visibility: {  }

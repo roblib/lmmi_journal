@@ -1,0 +1,21 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - lmmi_journal
+_core:
+  default_config_hash: ChUWAilV6oDjpOkzVDrnAfhz_SZC3w8cG23QNyf81uo
+id: lmmi_journal_messages
+theme: lmmi_journal
+region: system_messages
+weight: -6
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

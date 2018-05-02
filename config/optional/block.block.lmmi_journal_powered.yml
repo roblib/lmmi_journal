@@ -1,0 +1,21 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - lmmi_journal
+_core:
+  default_config_hash: D9H9uRke2-KbcQD92BYXJl1y87fWHhoVNnmQWVfQYGw
+id: lmmi_journal_powered
+theme: lmmi_journal
+region: sub_footer_first
+weight: -6
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  provider: system
+  label_display: '0'
+visibility: {  }
