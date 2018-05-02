@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Trinigan FG';
+    src: url('TriniganFG.woff2') format('woff2'),
+        url('TriniganFG.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gothic Extras B';
+    src: url('GothicExtras-B.woff2') format('woff2'),
+        url('GothicExtras-B.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gothic Extras D';
+    src: url('GothicExtras-D.woff2') format('woff2'),
+        url('GothicExtras-D.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Great Victorian Swashed';
+    src: url('GreatVictorian-Swashed.woff2') format('woff2'),
+        url('GreatVictorian-Swashed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Great Victorian Standard';
+    src: url('GreatVictorian-Standard.woff2') format('woff2'),
+        url('GreatVictorian-Standard.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Great Victorian Swashed SC';
+    src: url('GreatVictorian-SwashedSC.woff2') format('woff2'),
+        url('GreatVictorian-SwashedSC.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gothic Extras A';
+    src: url('GothicExtras-A.woff2') format('woff2'),
+        url('GothicExtras-A.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gothic Extras C';
+    src: url('GothicExtras-C.woff2') format('woff2'),
+        url('GothicExtras-C.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gothic Extras E';
+    src: url('GothicExtras-E.woff2') format('woff2'),
+        url('GothicExtras-E.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
