@@ -1,0 +1,1 @@
+{"version":3,"file":"../../base/local-base.css","sources":["../stdin"],"sourcesContent":["/**\n * @file\n * Use this CSS file to override base CSS rules\n */\n\n/* Set default font weight to 300 for better typography in high-density screens */\nbody {\n  //font-weight: 300;\n  //background:blue;\n}\n\n"],"mappings":"","names":[]}

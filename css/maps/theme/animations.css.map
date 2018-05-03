@@ -1,0 +1,1 @@
+{"version":3,"file":"../../theme/animations.css","sources":["../stdin"],"sourcesContent":["/*Animations*/\n/*fix for admin pages*/\n.path-admin .fade {\n  opacity: 1;\n  filter: alpha(opacity=100);\n}\n"],"mappings":"AAEA,AAAY,WAAD,CAAC,KAAK,AAAC,CAChB,OAAO,CAAE,CAAE,CACX,MAAM,CAAE,kBAAK,CACd","names":[]}

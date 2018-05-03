@@ -1,0 +1,1 @@
+{"version":3,"file":"../../components/social-media.css","sources":["../stdin"],"sourcesContent":["/**\n * @file\n * Visual styles for Magazine Lite's social media.\n */\n.social-media img {\n  border-radius: 0;\n}\n"],"mappings":"AAIA,AAAc,aAAD,CAAC,GAAG,AAAC,CAChB,aAAa,CAAE,CAAE,CAClB","names":[]}

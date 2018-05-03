@@ -1,0 +1,1 @@
+{"version":3,"file":"../../components/maintenance-page.css","sources":["../stdin"],"sourcesContent":["/**\n * @file\n * Visual styles for Magazine Lite's maintenance page.\n */\n.maintenance-page .main-content__section {\n  padding: 50px 0 80px;\n}\n"],"mappings":"AAIA,AAAkB,iBAAD,CAAC,sBAAsB,AAAC,CACvC,OAAO,CAAE,WAAY,CACtB","names":[]}

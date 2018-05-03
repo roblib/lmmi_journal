@@ -1,0 +1,1 @@
+{"version":3,"file":"../../components/username.css","sources":["../stdin"],"sourcesContent":["/**\n * @file\n * Visual styles for username in Magazine Lite.\n */\na.username {\n  text-decoration: none;\n}\n"],"mappings":"AAIA,AAAC,CAAA,AAAA,SAAS,AAAC,CACT,eAAe,CAAE,IAAK,CACvB","names":[]}
