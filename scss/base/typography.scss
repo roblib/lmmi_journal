@@ -97,6 +97,9 @@ $headings_font_family: $trinigan;
 //$slogan_font_family:;
 
 /*body*/
+body.pff-00 {
+  font-family: 'Libre Baskerville', Helvetica Neue, Arial, sans-serif;
+}
 body.pff-01 {
   font-family: 'Merriweather', Georgia, Times New Roman, Serif;
 }
@@ -397,7 +400,7 @@ body.pff-43 {
 .sff-14 .site-name,
 .slff-14 .site-slogan,
 .hff-14 .nav-tab__title {
-  font-family: $headings_font_family;
+  font-family: 'Playfair Display', Times New Roman, Serif;
 }
 
 /*maintenance page*/

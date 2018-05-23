@@ -592,6 +592,18 @@ color-red:
 ####################
 # Fonts collection #
 ####################
+
+fonts-id-00:
+  version: VERSION
+  remote: //fonts.googleapis.com/css
+  css:
+    theme:
+      //fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700&amp;subset=latin-ext: { type: external }
+  license:
+    name: SIL Open Font License, 1.1
+    url: //scripts.sil.org/OFL
+    gpl-compatible: true
+
 fonts-id-01:
   version: VERSION
   remote: //fonts.googleapis.com/css
