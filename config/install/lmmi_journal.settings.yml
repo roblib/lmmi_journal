@@ -137,7 +137,7 @@ affix_side: true
 layout_mode: 'wide'
 headings_font_family: 'hff-00'
 headings_wide_spacing: false
-paragraph_font_family: 'pff-00'
+paragraph_font_family: 'pff-07'
 paragraph_responsive_typography: true
 sitename_font_family: 'sff-00'
 sitename_italic: true
