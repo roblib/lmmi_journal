@@ -135,13 +135,13 @@ font_resize: true
 post_progress: true
 affix_side: true
 layout_mode: 'wide'
-headings_font_family: 'hff-14'
+headings_font_family: 'hff-00'
 headings_wide_spacing: false
-paragraph_font_family: 'pff-13'
+paragraph_font_family: 'pff-00'
 paragraph_responsive_typography: true
-sitename_font_family: 'sff-14'
+sitename_font_family: 'sff-00'
 sitename_italic: true
-slogan_font_family: 'slff-14'
+slogan_font_family: 'slff-00'
 rs_slideshow_fullscreen_effect: 'random'
 rs_slideshow_fullscreen_effect_time: '10'
 rs_slideshow_fullscreen_navigation_style: 'vertical_thumbs'
