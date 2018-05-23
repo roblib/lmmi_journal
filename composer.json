@@ -1,0 +1,16 @@
+{
+    "name": "roblib/lmmi_journal",
+    "type": "drupal-theme",
+    "authors": [
+        {
+            "name": "rdrew",
+            "email": "rdrew@upei.ca"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    ]
+}
