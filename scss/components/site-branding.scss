@@ -4,6 +4,7 @@
  */
 .fancy_line {
     //display:none;
+    width:200px;
 }
 @media (min-width: 992px) {
   .header-container .container-fluid .logo-and-site-name-wrapper {
@@ -46,6 +47,7 @@
   text-decoration: none;
   display: block;
   margin-bottom: 10px;
+  margin-top: 10px;
 }
 .sitename-italic-enabled .site-name a {
   //font-style: italic;
@@ -54,7 +56,7 @@
   color: #ffffff;
 }
 .col-md-12 .site-name a {
-  font-size: 50px;
+  font-size: 40px;
 }
 .site-name a:hover {
   text-decoration: none;
