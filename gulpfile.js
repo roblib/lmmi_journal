@@ -51,6 +51,25 @@ gulp.task('sass', function () {
 });
 
 
+gulp.task('browser-sync_remote', function() {
+
+    const findCss = new RegExp("/themes/contrib/lmmi_journal/css", "g");
+
+  browserSync.init({
+    files: ['css/**/*.css', 'js/**/*.js'],
+    serveStatic: ["css","js"],
+    //proxy: config.browserSync.hostname
+    proxy: "https://journal.researchspaces.ca",
+        rewriteRules: [
+            {
+                match: findCss,
+                fn: function (req, res, match) {
+                    return '';
+                }
+            }
+        ]
+  });
+});
 /**
  * Define a task to spawn Browser Sync.
  * Options are defaulted, but can be overridden within your config.js file.
@@ -86,4 +105,4 @@ gulp.task('watch', function() {
 
 });
 
-gulp.task('default', ['watch', 'browser-sync']);
+gulp.task('default', ['watch', 'browser-sync_remote']);

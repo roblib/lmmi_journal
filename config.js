@@ -1,6 +1,6 @@
 module.exports = {
   browserSync: {
-    hostname: "drupal8.test",
+    hostname: "journal.researchspaces.ca",
     port: 8080,
     openAutomatically: true,
     reloadDelay: 50,

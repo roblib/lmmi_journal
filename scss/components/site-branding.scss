@@ -16,7 +16,8 @@
 .logo {
   float: left;
   margin-right: 10px;
-  display: inline-block;
+  //display: inline-block;
+  display: none;
 }
 .col-md-12 .logo {
   float: none;
@@ -44,13 +45,13 @@
   margin-bottom: 10px;
 }
 .sitename-italic-enabled .site-name a {
-  font-style: italic;
+  //font-style: italic;
 }
 .region--light-typography .site-name a {
   color: #ffffff;
 }
 .col-md-12 .site-name a {
-  font-size: 80px;
+  font-size: 50px;
 }
 .site-name a:hover {
   text-decoration: none;
