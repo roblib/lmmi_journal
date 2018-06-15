@@ -27,9 +27,9 @@ $main-menu-background: #79A3A6;
 
 /*header-top-highlighted*/
 .header-top-highlighted {
-    background:$top-menu-color;
+    //background:$top-menu-color;
 ul.menu li a {
-        color:#fff !important;
+        //color:#fff !important;
     }
 }
 .header-top-highlighted__container {
@@ -43,7 +43,7 @@ ul.menu li a {
 /*header-top layout*/
 
 .header-top {
-    background:$hero-background;
+    //background:$hero-background;
 }
 .header-top__container {
   padding: 60px 0 60px;
@@ -72,7 +72,7 @@ ul.menu li a {
   border-color: #eeeeee transparent;
 }
 header.header.region--white-background {
-    background: $main-menu-background;
+    //background: $main-menu-background;
   border-bottom-color: #eeeeee;
   border-style: solid;
   border-width: 0 0 1px 0;
