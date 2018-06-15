@@ -4,6 +4,12 @@
  */
 
 /*Regions background colors*/
+$top-menu-color: #373737;
+$hero-background: #9CD3D7;
+$hero-background: #dff1f2;
+$main-menu-background: #79A3A6;
+
+
 .region--white-background {
   background-color: #ffffff;
 }
@@ -20,6 +26,12 @@
 }
 
 /*header-top-highlighted*/
+.header-top-highlighted {
+    background:$top-menu-color;
+ul.menu li a {
+        color:#fff !important;
+    }
+}
 .header-top-highlighted__container {
   position: relative;
   z-index: 498;
@@ -29,6 +41,10 @@
 }
 
 /*header-top layout*/
+
+.header-top {
+    background:$hero-background;
+}
 .header-top__container {
   padding: 70px 0 65px;
 }
@@ -56,6 +72,7 @@
   border-color: #eeeeee transparent;
 }
 header.header.region--white-background {
+    background: $main-menu-background;
   border-bottom-color: #eeeeee;
   border-style: solid;
   border-width: 0 0 1px 0;
