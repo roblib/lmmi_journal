@@ -84,6 +84,7 @@
     -ms-transform: scale(0.75);
     -o-transform: scale(0.75);
     transform: scale(0.75);
+    display:none;
   }
   .site-name,
   .site-slogan {
@@ -93,7 +94,7 @@
     margin: 5px 0 0 0;
   }
   .col-md-12 .site-name a {
-    font-size: 60px;
+    font-size: 40px;
   }
   .site-slogan {
     display: block;
