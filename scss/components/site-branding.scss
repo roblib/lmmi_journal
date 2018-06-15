@@ -2,6 +2,9 @@
  * @file
  * Visual styles for the site branding block in Magazine Lite.
  */
+.fancy_line {
+    //display:none;
+}
 @media (min-width: 992px) {
   .header-container .container-fluid .logo-and-site-name-wrapper {
     padding-left: 20px;
